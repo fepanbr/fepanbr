@@ -2,7 +2,8 @@
 - 👀 I’m interested in flutter, angular, dart
 - 🌱 I’m currently learning flutter, reactive programming
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me fepanbr@gmail.com
+
 
 <!---
 fepanbr/fepanbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
