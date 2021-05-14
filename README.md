@@ -2,7 +2,7 @@
 - 👀 I’m interested in flutter, angular, dart
 - 🌱 I’m currently learning flutter, reactive programming
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me fepanbr@gmail.com
+- 📫 How to reach me fepanbr@gmail.com, velog.io/@fepanbr
 
 
 <!---
