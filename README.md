@@ -1,6 +1,6 @@
 
-- 👀 I’m interested in flutter, angular, dart, svelte, ionic, kotlin backend
-- 📫 How to reach me devfepan@gmail.com, velog.io/@fepanbr
+-  I’m interested in flutter, angular, dart, svelte, ionic, kotlin backend
+-  How to reach me devfepan@gmail.com, velog.io/@fepanbr
 
 
 <!---
