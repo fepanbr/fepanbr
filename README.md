@@ -1,5 +1,5 @@
 
--  I’m interested in flutter, dart, svelte, ionic, spring backend
+-  I’m interested in flutter, dart, svelte, spring backend
 -  How to reach me devfepan@gmail.com, velog.io/@fepanbr
 
 
