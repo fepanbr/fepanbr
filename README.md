@@ -1,5 +1,5 @@
 
--  I’m interested in js, flutter, dart, svelte
+-  I’m interested in js, flutter, dart, react, functional programing
 -  How to reach me devfepan@gmail.com, velog.io/@fepanbr
 
 
