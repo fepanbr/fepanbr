@@ -1,5 +1,5 @@
 
--  I’m interested in kotlin, js, flutter, dart, svelte, spring backend
+-  I’m interested in js, flutter, dart, svelte
 -  How to reach me devfepan@gmail.com, velog.io/@fepanbr
 
 
