@@ -1,6 +1,6 @@
 
 -  I’m interested in js, flutter, dart, react, functional programing
--  How to reach me devfepan@gmail.com, velog.io/@fepanbr
+-  How to reach me fepanbr@gmail.com, velog.io/@fepanbr
 
 
 <!---
